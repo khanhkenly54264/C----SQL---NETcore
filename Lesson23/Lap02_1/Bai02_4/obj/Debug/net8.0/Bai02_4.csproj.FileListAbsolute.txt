@@ -1,0 +1,14 @@
+C:\Users\anvan\source\repos\Lap02_1\Bai02_4\bin\Debug\net8.0\Bai02_4.exe
+C:\Users\anvan\source\repos\Lap02_1\Bai02_4\bin\Debug\net8.0\Bai02_4.deps.json
+C:\Users\anvan\source\repos\Lap02_1\Bai02_4\bin\Debug\net8.0\Bai02_4.runtimeconfig.json
+C:\Users\anvan\source\repos\Lap02_1\Bai02_4\bin\Debug\net8.0\Bai02_4.dll
+C:\Users\anvan\source\repos\Lap02_1\Bai02_4\bin\Debug\net8.0\Bai02_4.pdb
+C:\Users\anvan\source\repos\Lap02_1\Bai02_4\obj\Debug\net8.0\Bai02_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anvan\source\repos\Lap02_1\Bai02_4\obj\Debug\net8.0\Bai02_4.AssemblyInfoInputs.cache
+C:\Users\anvan\source\repos\Lap02_1\Bai02_4\obj\Debug\net8.0\Bai02_4.AssemblyInfo.cs
+C:\Users\anvan\source\repos\Lap02_1\Bai02_4\obj\Debug\net8.0\Bai02_4.csproj.CoreCompileInputs.cache
+C:\Users\anvan\source\repos\Lap02_1\Bai02_4\obj\Debug\net8.0\Bai02_4.dll
+C:\Users\anvan\source\repos\Lap02_1\Bai02_4\obj\Debug\net8.0\refint\Bai02_4.dll
+C:\Users\anvan\source\repos\Lap02_1\Bai02_4\obj\Debug\net8.0\Bai02_4.pdb
+C:\Users\anvan\source\repos\Lap02_1\Bai02_4\obj\Debug\net8.0\Bai02_4.genruntimeconfig.cache
+C:\Users\anvan\source\repos\Lap02_1\Bai02_4\obj\Debug\net8.0\ref\Bai02_4.dll

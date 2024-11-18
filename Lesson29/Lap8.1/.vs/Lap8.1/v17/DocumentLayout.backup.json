@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KhahnHax\\Documents\\GitHub\\NguyenQuocKhanh_C-sharp\\Lesson29\\Lap8.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD4274B-F70C-40BA-A93F-32A2E8B7FF94}|Lap8.1\\Lap8.1.csproj|c:\\users\\khahnhax\\documents\\github\\nguyenquockhanh_c-sharp\\lesson29\\lap8.1\\lap8.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD4274B-F70C-40BA-A93F-32A2E8B7FF94}|Lap8.1\\Lap8.1.csproj|solutionrelative:lap8.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD4274B-F70C-40BA-A93F-32A2E8B7FF94}|Lap8.1\\Lap8.1.csproj|c:\\users\\khahnhax\\documents\\github\\nguyenquockhanh_c-sharp\\lesson29\\lap8.1\\lap8.1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD4274B-F70C-40BA-A93F-32A2E8B7FF94}|Lap8.1\\Lap8.1.csproj|solutionrelative:lap8.1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\NguyenQuocKhanh_C-sharp\\Lesson29\\Lap8.1\\Lap8.1\\Book.cs",
+              "RelativeDocumentMoniker": "Lap8.1\\Book.cs",
+              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\NguyenQuocKhanh_C-sharp\\Lesson29\\Lap8.1\\Lap8.1\\Book.cs*",
+              "RelativeToolTip": "Lap8.1\\Book.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:40:04.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\NguyenQuocKhanh_C-sharp\\Lesson29\\Lap8.1\\Lap8.1\\Program.cs",
+              "RelativeDocumentMoniker": "Lap8.1\\Program.cs",
+              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\NguyenQuocKhanh_C-sharp\\Lesson29\\Lap8.1\\Lap8.1\\Program.cs*",
+              "RelativeToolTip": "Lap8.1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:37:41.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

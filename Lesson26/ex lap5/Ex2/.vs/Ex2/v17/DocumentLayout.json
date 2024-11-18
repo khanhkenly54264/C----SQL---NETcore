@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KhahnHax\\Documents\\GitHub\\NguyenQuocKhanh_C-sharp\\Lesson26\\ex lap5\\Ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8CB7A9-4908-43E9-BF00-052CC557332D}|Ex2\\Ex2.csproj|c:\\users\\khahnhax\\documents\\github\\nguyenquockhanh_c-sharp\\lesson26\\ex lap5\\ex2\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8CB7A9-4908-43E9-BF00-052CC557332D}|Ex2\\Ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\NguyenQuocKhanh_C-sharp\\Lesson26\\ex lap5\\Ex2\\Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2\\Program.cs",
+              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\NguyenQuocKhanh_C-sharp\\Lesson26\\ex lap5\\Ex2\\Ex2\\Program.cs",
+              "RelativeToolTip": "Ex2\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwD0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T04:37:34.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

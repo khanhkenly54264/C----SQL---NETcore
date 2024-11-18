@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KhahnHax\\Documents\\GitHub\\NguyenQuocKhanh_C-sharp\\Lesson30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD32C27-9FCD-4440-8C27-F7BBA99C3957}|Final-Test\\Final-Test.csproj|c:\\users\\khahnhax\\documents\\github\\nguyenquockhanh_c-sharp\\lesson30\\final-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD32C27-9FCD-4440-8C27-F7BBA99C3957}|Final-Test\\Final-Test.csproj|solutionrelative:final-test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\NguyenQuocKhanh_C-sharp\\Lesson30\\Final-Test\\Program.cs",
+              "RelativeDocumentMoniker": "Final-Test\\Program.cs",
+              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\NguyenQuocKhanh_C-sharp\\Lesson30\\Final-Test\\Program.cs",
+              "RelativeToolTip": "Final-Test\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:26:30.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

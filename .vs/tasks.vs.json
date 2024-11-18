@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Lap4.",
+      "appliesTo": "Lesson25/Lap4/Lap4.1/Lap4..cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-NguyenQuocKhanh_C-sharp",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\bin\Debug\net8.0\StepToStep_02.exe
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\bin\Debug\net8.0\StepToStep_02.deps.json
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\bin\Debug\net8.0\StepToStep_02.runtimeconfig.json
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\bin\Debug\net8.0\StepToStep_02.dll
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\bin\Debug\net8.0\StepToStep_02.pdb
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\obj\Debug\net8.0\StepToStep_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\obj\Debug\net8.0\StepToStep_02.AssemblyInfoInputs.cache
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\obj\Debug\net8.0\StepToStep_02.AssemblyInfo.cs
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\obj\Debug\net8.0\StepToStep_02.csproj.CoreCompileInputs.cache
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\obj\Debug\net8.0\StepToStep_02.sourcelink.json
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\obj\Debug\net8.0\StepToStep_02.dll
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\obj\Debug\net8.0\refint\StepToStep_02.dll
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\obj\Debug\net8.0\StepToStep_02.pdb
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\obj\Debug\net8.0\StepToStep_02.genruntimeconfig.cache
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson26\StepToStep_02\StepToStep_02\obj\Debug\net8.0\ref\StepToStep_02.dll

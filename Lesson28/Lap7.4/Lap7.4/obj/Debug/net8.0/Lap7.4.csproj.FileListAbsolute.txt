@@ -1,0 +1,15 @@
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\bin\Debug\net8.0\Lap7.4.exe
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\bin\Debug\net8.0\Lap7.4.deps.json
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\bin\Debug\net8.0\Lap7.4.runtimeconfig.json
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\bin\Debug\net8.0\Lap7.4.dll
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\bin\Debug\net8.0\Lap7.4.pdb
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\obj\Debug\net8.0\Lap7.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\obj\Debug\net8.0\Lap7.4.AssemblyInfoInputs.cache
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\obj\Debug\net8.0\Lap7.4.AssemblyInfo.cs
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\obj\Debug\net8.0\Lap7.4.csproj.CoreCompileInputs.cache
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\obj\Debug\net8.0\Lap7.4.sourcelink.json
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\obj\Debug\net8.0\Lap7.4.dll
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\obj\Debug\net8.0\refint\Lap7.4.dll
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\obj\Debug\net8.0\Lap7.4.pdb
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\obj\Debug\net8.0\Lap7.4.genruntimeconfig.cache
+C:\Users\KhahnHax\Documents\GitHub\NguyenQuocKhanh_C-sharp\Lesson28\Lap7.4\Lap7.4\obj\Debug\net8.0\ref\Lap7.4.dll

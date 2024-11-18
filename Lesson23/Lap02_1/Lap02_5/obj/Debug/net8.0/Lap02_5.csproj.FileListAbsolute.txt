@@ -1,0 +1,14 @@
+C:\Users\anvan\source\repos\Lap02_1\Lap02_5\bin\Debug\net8.0\Lap02_5.exe
+C:\Users\anvan\source\repos\Lap02_1\Lap02_5\bin\Debug\net8.0\Lap02_5.deps.json
+C:\Users\anvan\source\repos\Lap02_1\Lap02_5\bin\Debug\net8.0\Lap02_5.runtimeconfig.json
+C:\Users\anvan\source\repos\Lap02_1\Lap02_5\bin\Debug\net8.0\Lap02_5.dll
+C:\Users\anvan\source\repos\Lap02_1\Lap02_5\bin\Debug\net8.0\Lap02_5.pdb
+C:\Users\anvan\source\repos\Lap02_1\Lap02_5\obj\Debug\net8.0\Lap02_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anvan\source\repos\Lap02_1\Lap02_5\obj\Debug\net8.0\Lap02_5.AssemblyInfoInputs.cache
+C:\Users\anvan\source\repos\Lap02_1\Lap02_5\obj\Debug\net8.0\Lap02_5.AssemblyInfo.cs
+C:\Users\anvan\source\repos\Lap02_1\Lap02_5\obj\Debug\net8.0\Lap02_5.csproj.CoreCompileInputs.cache
+C:\Users\anvan\source\repos\Lap02_1\Lap02_5\obj\Debug\net8.0\Lap02_5.dll
+C:\Users\anvan\source\repos\Lap02_1\Lap02_5\obj\Debug\net8.0\refint\Lap02_5.dll
+C:\Users\anvan\source\repos\Lap02_1\Lap02_5\obj\Debug\net8.0\Lap02_5.pdb
+C:\Users\anvan\source\repos\Lap02_1\Lap02_5\obj\Debug\net8.0\Lap02_5.genruntimeconfig.cache
+C:\Users\anvan\source\repos\Lap02_1\Lap02_5\obj\Debug\net8.0\ref\Lap02_5.dll

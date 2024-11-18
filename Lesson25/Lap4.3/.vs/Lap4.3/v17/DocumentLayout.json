@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KhahnHax\\Documents\\GitHub\\NguyenQuocKhanh_C-sharp\\Lesson25\\Lap4.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50D0CAD8-A39E-4ACC-980C-36D0015788A4}|Lap4.3\\Lap4.3.csproj|c:\\users\\khahnhax\\documents\\github\\nguyenquockhanh_c-sharp\\lesson25\\lap4.3\\lap4.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D0CAD8-A39E-4ACC-980C-36D0015788A4}|Lap4.3\\Lap4.3.csproj|solutionrelative:lap4.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\NguyenQuocKhanh_C-sharp\\Lesson25\\Lap4.3\\Lap4.3\\Program.cs",
+              "RelativeDocumentMoniker": "Lap4.3\\Program.cs",
+              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\NguyenQuocKhanh_C-sharp\\Lesson25\\Lap4.3\\Lap4.3\\Program.cs",
+              "RelativeToolTip": "Lap4.3\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwEkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:03:11.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
