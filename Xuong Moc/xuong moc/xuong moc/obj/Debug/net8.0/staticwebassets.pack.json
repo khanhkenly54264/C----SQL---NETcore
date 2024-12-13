@@ -13,120 +13,160 @@
       "PackagePath": "staticwebassets\\Images.rar"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\cau-thang\\019.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\cau-thang\\019.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\danh-muc\\4.jpg",
+      "PackagePath": "staticwebassets\\Images\\danh-muc\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\do-trang-tri\\020.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\do-trang-tri\\020.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\danh-muc\\icon-cau-thang.png",
+      "PackagePath": "staticwebassets\\Images\\danh-muc\\icon-cau-thang.png"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-bep\\004.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-bep\\004.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\danh-muc\\icon-classroom.png",
+      "PackagePath": "staticwebassets\\Images\\danh-muc\\icon-classroom.png"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-bep\\009.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-bep\\009.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\danh-muc\\icon-do-trang-tri.png",
+      "PackagePath": "staticwebassets\\Images\\danh-muc\\icon-do-trang-tri.png"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-khach\\001.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-khach\\001.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\danh-muc\\icon-phong-bep.png",
+      "PackagePath": "staticwebassets\\Images\\danh-muc\\icon-phong-bep.png"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-khach\\001a.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-khach\\001a.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\danh-muc\\icon-phong-khach.png",
+      "PackagePath": "staticwebassets\\Images\\danh-muc\\icon-phong-khach.png"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-khach\\001b.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-khach\\001b.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\danh-muc\\icon-phong-ngu.png",
+      "PackagePath": "staticwebassets\\Images\\danh-muc\\icon-phong-ngu.png"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-khach\\001c.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-khach\\001c.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\danh-muc\\icon-phong-tam.png",
+      "PackagePath": "staticwebassets\\Images\\danh-muc\\icon-phong-tam.png"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-khach\\001d.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-khach\\001d.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\danh-muc\\icon-tre-em.png",
+      "PackagePath": "staticwebassets\\Images\\danh-muc\\icon-tre-em.png"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-khach\\001e.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-khach\\001e.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\danh-muc\\icon-van-phong.png",
+      "PackagePath": "staticwebassets\\Images\\danh-muc\\icon-van-phong.png"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-khach\\002.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-khach\\002.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\cau-thang\\019.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\cau-thang\\019.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-khach\\008.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-khach\\008.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\do-trang-tri\\020.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\do-trang-tri\\020.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-khach\\009.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-khach\\009.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-bep\\004.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-bep\\004.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-khach\\011.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-khach\\011.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-bep\\009.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-bep\\009.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-khach\\012.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-khach\\012.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-khach\\001.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\001.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-khach\\014.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-khach\\014.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-khach\\001a.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\001a.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-khach\\015.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-khach\\015.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-khach\\001b.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\001b.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-ngu\\003.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-ngu\\003.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-khach\\001c.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\001c.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-ngu\\004.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-ngu\\004.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-khach\\001d.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\001d.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-ngu\\007.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-ngu\\007.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-khach\\001e.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\001e.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-ngu\\013.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-ngu\\013.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-khach\\002.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\002.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-tam\\005.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-tam\\005.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-khach\\008.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\008.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-tam\\006.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-tam\\006.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-khach\\009.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\009.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-tam\\007.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-tam\\007.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-khach\\011.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\011.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\phong-tam\\008.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\phong-tam\\008.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-khach\\012.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\012.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\tre-em\\016.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\tre-em\\016.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-khach\\014.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\014.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\tre-em\\017.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\tre-em\\017.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-khach\\015.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-khach\\015.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\tre-em\\018.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\tre-em\\018.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-ngu\\003.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-ngu\\003.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Images\\products\\van-phong\\018.jpg",
-      "PackagePath": "staticwebassets\\Images\\Images\\products\\van-phong\\018.jpg"
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-ngu\\004.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-ngu\\004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-ngu\\007.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-ngu\\007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-ngu\\013.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-ngu\\013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-tam\\005.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-tam\\005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-tam\\006.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-tam\\006.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-tam\\007.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-tam\\007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\phong-tam\\008.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\phong-tam\\008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\tre-em\\016.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\tre-em\\016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\tre-em\\017.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\tre-em\\017.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\tre-em\\018.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\tre-em\\018.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\van-phong\\018.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\van-phong\\018.jpg"
     },
     {
       "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\css\\site.css",
