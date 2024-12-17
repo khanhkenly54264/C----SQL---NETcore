@@ -257,3 +257,8 @@ C:\Users\KhahnHax\Documents\GitHub\C----SQL---NETcore\Xuong Moc\xuong moc\xuong 
 C:\Users\KhahnHax\Documents\GitHub\C----SQL---NETcore\Xuong Moc\xuong moc\xuong moc\obj\Debug\net8.0\xuong moc.pdb
 C:\Users\KhahnHax\Documents\GitHub\C----SQL---NETcore\Xuong Moc\xuong moc\xuong moc\obj\Debug\net8.0\xuong moc.genruntimeconfig.cache
 C:\Users\KhahnHax\Documents\GitHub\C----SQL---NETcore\Xuong Moc\xuong moc\xuong moc\obj\Debug\net8.0\ref\xuong moc.dll
+C:\Users\KhahnHax\Documents\GitHub\C----SQL---NETcore\Xuong Moc\xuong moc\xuong moc\obj\Debug\net8.0\xuong moc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KhahnHax\Documents\GitHub\C----SQL---NETcore\Xuong Moc\xuong moc\xuong moc\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\KhahnHax\Documents\GitHub\C----SQL---NETcore\Xuong Moc\xuong moc\xuong moc\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\KhahnHax\Documents\GitHub\C----SQL---NETcore\Xuong Moc\xuong moc\xuong moc\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\KhahnHax\Documents\GitHub\C----SQL---NETcore\Xuong Moc\xuong moc\xuong moc\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll

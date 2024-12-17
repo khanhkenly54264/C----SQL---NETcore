@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using X.PagedList;
 using xuong_moc.Models;
 
 namespace xuong_moc.Areas.Admins.Controllers
@@ -20,9 +21,18 @@ namespace xuong_moc.Areas.Admins.Controllers
         }
 
         // GET: Admins/Categories
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string name, int page = 1)
         {
-            return View(await _context.Categories.ToListAsync());
+            // Số bản ghi trên một trang
+            int limit = 5;
+            var category = await _context.Categories.OrderBy(c => c.Id).DefaultIfEmpty().ToPagedListAsync(page, limit);
+            // nếu có tham số name trên url
+            if (!String.IsNullOrEmpty(name))
+            {
+                category = await _context.Categories.Where(c => c.Title.Contains(name)).OrderBy(c => c.Id).DefaultIfEmpty().ToPagedListAsync(page, limit);
+            }
+            ViewBag.keyword = name;
+            return View(category);
         }
 
         // GET: Admins/Categories/Details/5

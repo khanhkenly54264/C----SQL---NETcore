@@ -46,6 +46,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEFkbWluVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Banners/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJhbm5lcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Banners/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJhbm5lcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Banners/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJhbm5lcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Banners/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJhbm5lcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Banners/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEJhbm5lcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXENhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -66,12 +86,96 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXENhdGVnb3JpZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXENvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Contacts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXENvbnRhY3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Contacts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXENvbnRhY3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Contacts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXENvbnRhY3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Contacts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXENvbnRhY3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Contacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXENvbnRhY3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEN1c3RvbWVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEN1c3RvbWVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEN1c3RvbWVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEN1c3RvbWVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXEN1c3RvbWVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXExvZ2luXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/News/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE5ld3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/News/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE5ld3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/News/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE5ld3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/News/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE5ld3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXE5ld3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Partners/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFBhcnRuZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Partners/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFBhcnRuZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Partners/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFBhcnRuZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Partners/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFBhcnRuZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Partners/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5zXFZpZXdzXFBhcnRuZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/KhahnHax/Documents/GitHub/C----SQL---NETcore/Xuong Moc/xuong moc/xuong moc/Areas/Admins/Views/Products/Create.cshtml]

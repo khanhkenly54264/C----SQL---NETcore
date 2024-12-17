@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using xuong_moc.Models;
 
 namespace xuong_moc.Models;
 
@@ -25,6 +26,8 @@ public partial class DevXuongMocContext : DbContext
 
     public virtual DbSet<Contact> Contacts { get; set; }
 
+    public virtual  DbSet<Customer> Customers { get; set; } 
+
     public virtual DbSet<Extension> Extensions { get; set; }
 
     public virtual DbSet<InforCompany> InforCompanies { get; set; }
@@ -48,14 +51,14 @@ public partial class DevXuongMocContext : DbContext
     public virtual DbSet<Slide> Slides { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
+#warning 
         => optionsBuilder.UseSqlServer("Server=DESKTOP-9NCHNIC;Database=DevXuongMoc;Integrated Security=True;MultipleActiveResultSets=True;TrustServerCertificate=True;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<AdminLog>(entity =>
         {
-            entity.HasKey(e => e.LogId).HasName("PK__ADMIN_LO__4364C8823C1A6721");
+            entity.HasKey(e => e.LogId).HasName("PK__ADMIN_LO__4364C882AEB05438");
 
             entity.ToTable("ADMIN_LOG");
 
@@ -552,7 +555,7 @@ public partial class DevXuongMocContext : DbContext
 
         modelBuilder.Entity<Partner>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__PARTNER__3214EC27CD8F93A2");
+            entity.HasKey(e => e.Id).HasName("PK__PARTNER__3214EC2712DD8CE9");
 
             entity.ToTable("PARTNER");
 
@@ -703,7 +706,7 @@ public partial class DevXuongMocContext : DbContext
 
         modelBuilder.Entity<Slide>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__SLIDES__3214EC27830BE68B");
+            entity.HasKey(e => e.Id).HasName("PK__SLIDES__3214EC27AA13F5CB");
 
             entity.ToTable("SLIDES");
 

@@ -9,8 +9,8 @@ using xuong_moc.Models;
 
 namespace xuong_moc.Areas.Admins.Controllers
 {
-    [Area("Admins")]
-    public class ProductsController : Controller
+
+    public class ProductsController : BaseController
     {
         private readonly DevXuongMocContext _context;
 

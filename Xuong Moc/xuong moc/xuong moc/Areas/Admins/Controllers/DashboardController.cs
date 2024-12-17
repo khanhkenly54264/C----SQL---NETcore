@@ -2,8 +2,7 @@
 
 namespace xuong_moc.Areas.Admins.Controllers
 {
-    [Area("Admins")]
-    public class DashboardController : Controller
+    public class DashboardController : BaseController
     {
         public IActionResult Index()
         {

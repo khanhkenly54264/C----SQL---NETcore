@@ -1,16 +1,15 @@
-﻿﻿@using Microsoft.AspNetCore.Http;
+﻿﻿﻿@using Microsoft.AspNetCore.Http;
 @inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="index3.html" class="brand-link">
         <img src="~/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-        <span class="brand-text font-weight-light">AdminLTE 3</span>
+        <span class="brand-text font-weight-light">Quản trị hệ thống</span>
     </a>
 
     <!-- Sidebar -->
     <div class="sidebar">
         <!-- Sidebar user panel (optional) -->
-        <!-- Sidebar Menu -->
         <div class="user-panel mt-3 pb-3 mb-3 d-flex">
             <div class="image">
                 <img src="~/Avt/Mlemm.gif" class="img-circle elevation-2" alt="User Image">
@@ -21,26 +20,27 @@
 
                     {
                         <a href="#" class="d-block">@HttpContextAccessor.HttpContext.Session.GetString("AdminLogin")</a>
-                        <a asp-action="Logout" asp-controller="Login">Logout</a>
+                        <a asp-action="Logout" asp-controller="Login">Đăng xuất</a>
                     }
 
                     else
+
                     {
-                        <a href="#" class="d-block">Nguyên Quốc Khánh</a>
+                        <a href="#" class="d-block">NguyenQuocKhanh</a>
                     }
                 }
 
 
             </div>
         </div>
+        <!-- Sidebar Menu -->
         <nav class="mt-2">
             <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
-                
                 <li class="nav-item">
                     <a href="~/admins" class="nav-link">
                         <i class="nav-icon fas fa-th"></i>
                         <p>
-                            Trang chủ
+                            Bảng điều khiển
                         </p>
                     </a>
                 </li>
@@ -56,13 +56,13 @@
                     <ul class="nav nav-treeview">
                         <li class="nav-item">
                             <a href="~/admins/AdminUsers" class="nav-link">
-                                <i class="far fac nav-icon"></i>
+                                <i class="far fa-circle nav-icon"></i>
                                 <p>Tài khoản Admin</p>
                             </a>
                         </li>
                         <li class="nav-item">
                             <a href="~/admins/customers" class="nav-link">
-                                <i class="far fac nav-icon"></i>
+                                <i class="far fa-circle nav-icon"></i>
                                 <p>Tài khoản khách hàng</p>
                             </a>
                         </li>
@@ -70,103 +70,88 @@
                 </li>
                 <li class="nav-item">
                     <a href="/admins/categories" class="nav-link">
-                        <i class="fas fa-list"></i>
+                        <i class="nav-icon fas fa-angle-left"></i>
                         <p>
-                            Danh mục
-                            <i class="fas fa-angle-left right"></i>
+                            Quản lý danh mục
+                            
                         </p>
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a href="/admins/Products" class="nav-link">
-                        <i class="fas fa-store"></i>
+                    <a href="/admins/banners" class="nav-link">
+                        <i class="nav-icon fas fa-circle"></i>
                         <p>
-                            Sản phẩm
-                            <i class="fas fa-angle-left right"></i>
+                            Quản lý Banner
                         </p>
                     </a>
+
                 </li>
+                <li class="nav-item">
+                    <a href="/admins/news" class="nav-link">
+                        <i class="nav-icon fas fa-file-signature"></i>
+                        <p>
+                            Danh mục tin tức
+                        </p>
+                    </a>
+
+                </li>
+                <li class="nav-item">
+                    <a href="/admins/partners" class="nav-link">
+                        <i class="nav-icon fas fa-copy"></i>
+                        <p>
+                            Quản lý đối tác
+                        </p>
+                    </a>
+
+                </li>
+                <li class="nav-item">
+                    <a href="/admins/contacts" class="nav-link">
+                        <i class="nav-icon fas fa-user-astronaut"></i>
+                        <p>
+                            Danh sách liên hệ
+                        </p>
+                    </a>
+
+                </li>
+
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fas fa-blog"></i>
+                        <i class="nav-icon fas fa-copy"></i>
                         <p>
-                            Blog
+                            Quản lý sản phẩm
                             <i class="fas fa-angle-left right"></i>
-                            <span class="badge badge-info right">2</span>
+                            <span class="badge badge-info right"></span>
                         </p>
                     </a>
                     <ul class="nav nav-treeview">
                         <li class="nav-item">
-                            <a href="~/admins/categories" class="nav-link">
-                                <i class="far fac nav-icon"></i>
-                                <p>Danh sách</p>
+                            <a href="~/admins/products" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Danh mục sản phẩm</p>
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="~/admins/categories/create" class="nav-link">
-                                <i class="far fac nav-icon"></i>
-                                <p>Thêm mới</p>
+                            <a href="~/admins/productextensions" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Danh sách mở rộng sản phẩm</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="~/admins/productimages" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Danh sách ảnh sản phẩm</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="~/admins/productmaterials" class="nav-link">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Danh sách chất liệu sản phẩm</p>
                             </a>
                         </li>
                     </ul>
                 </li>
 
-                <li class="nav-item">
-                    <a href="#" class="nav-link">
-                        <i class="far fa-image"></i>
-                        <p>
-                            Banner
-                            <i class="fas fa-angle-left right"></i>
-                            <span class="badge badge-info right">2</span>
-                        </p>
-                    </a>
-                    <ul class="nav nav-treeview">
-                        <li class="nav-item">
-                            <a href="~/admins/categories" class="nav-link">
-                                <i class="far fac nav-icon"></i>
-                                <p>Danh sách</p>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="~/admins/categories/create" class="nav-link">
-                                <i class="far fac nav-icon"></i>
-                                <p>Thêm mới</p>
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-
-                <li class="nav-item">
-                    <a href="#" class="nav-link">
-                        <i class="nav-icon fas fa-th"></i>
-                        <p>
-                            Dịch vụ
-                        </p>
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link">
-                        <i class="nav-icon far fa-calendar-alt"></i>
-                        <p>
-                            Khách hang
-                            <span class="badge badge-info right">2</span>
-                        </p>
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link">
-                        <i class="nav-icon far fa-image"></i>
-                        <p>
-                            Đơn hàng
-                        </p>
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a asp-action="Logout" asp-controller="Login" class="nav-link">
-                       Logout
-                    </a>
-                </li>
             </ul>
         </nav>
         <!-- /.sidebar-menu -->

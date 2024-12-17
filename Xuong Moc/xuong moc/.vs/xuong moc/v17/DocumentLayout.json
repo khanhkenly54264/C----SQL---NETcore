@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|c:\\users\\khahnhax\\documents\\github\\c----sql---netcore\\xuong moc\\xuong moc\\xuong moc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|solutionrelative:xuong moc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|c:\\users\\khahnhax\\documents\\github\\c----sql---netcore\\xuong moc\\xuong moc\\xuong moc\\areas\\admins\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|solutionrelative:xuong moc\\areas\\admins\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|c:\\users\\khahnhax\\documents\\github\\c----sql---netcore\\xuong moc\\xuong moc\\xuong moc\\areas\\admins\\views\\shared\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|solutionrelative:xuong moc\\areas\\admins\\views\\shared\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|c:\\users\\khahnhax\\documents\\github\\c----sql---netcore\\xuong moc\\xuong moc\\xuong moc\\areas\\admins\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|solutionrelative:xuong moc\\areas\\admins\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|c:\\users\\khahnhax\\documents\\github\\c----sql---netcore\\xuong moc\\xuong moc\\xuong moc\\areas\\admins\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|solutionrelative:xuong moc\\areas\\admins\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|c:\\users\\khahnhax\\documents\\github\\c----sql---netcore\\xuong moc\\xuong moc\\xuong moc\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|solutionrelative:xuong moc\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|c:\\users\\khahnhax\\documents\\github\\c----sql---netcore\\xuong moc\\xuong moc\\xuong moc\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|solutionrelative:xuong moc\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|c:\\users\\khahnhax\\documents\\github\\c----sql---netcore\\xuong moc\\xuong moc\\xuong moc\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|solutionrelative:xuong moc\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|c:\\users\\khahnhax\\documents\\github\\c----sql---netcore\\xuong moc\\xuong moc\\xuong moc\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|solutionrelative:xuong moc\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_NavBar.cshtml",
-              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
-              "RelativeDocumentMoniker": "xuong moc\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
-              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
-              "RelativeToolTip": "xuong moc\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGsAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T16:27:43.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Preloader.cshtml",
-              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
-              "RelativeDocumentMoniker": "xuong moc\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
-              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
-              "RelativeToolTip": "xuong moc\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T16:27:42.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "xuong moc\\Areas\\Admins\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "xuong moc\\Areas\\Admins\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T16:27:32.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "xuong moc\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "xuong moc\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T16:27:07.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "xuong moc\\Areas\\Admins\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "xuong moc\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "DocumentIndex": 0,
+              "Title": "BannersController.cs",
+              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "RelativeDocumentMoniker": "xuong moc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "RelativeToolTip": "xuong moc\\Areas\\Admins\\Controllers\\BannersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T16:26:44.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "xuong moc\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "xuong moc\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T16:26:37.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_SideBar.cshtml",
-              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "RelativeDocumentMoniker": "xuong moc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "RelativeToolTip": "xuong moc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T16:23:07.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "xuong moc\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "xuong moc\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T16:22:56.85Z",
+              "WhenOpened": "2024-12-17T16:46:22.683Z",
               "EditorCaption": ""
             }
           ]
