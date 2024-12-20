@@ -262,3 +262,4 @@ C:\Users\KhahnHax\Documents\GitHub\C----SQL---NETcore\Xuong Moc\xuong moc\xuong 
 C:\Users\KhahnHax\Documents\GitHub\C----SQL---NETcore\Xuong Moc\xuong moc\xuong moc\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\KhahnHax\Documents\GitHub\C----SQL---NETcore\Xuong Moc\xuong moc\xuong moc\bin\Debug\net8.0\X.PagedList.dll
 C:\Users\KhahnHax\Documents\GitHub\C----SQL---NETcore\Xuong Moc\xuong moc\xuong moc\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+C:\Users\KhahnHax\Documents\GitHub\C----SQL---NETcore\Xuong Moc\xuong moc\xuong moc\bin\Debug\net8.0\BCrypt.Net-Next.dll

@@ -4,12 +4,18 @@
     ViewData["Title"] = "Index";
     Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
 }
+<form method="get" asp-action="Index" class="mb-12">
+    <div class="form-inline d-flex align-items-center ">
+        <a style="margin-right:20ppx" class="btn btn-success" asp-action="Create">
+            <i class="fas fa-plus"></i> Thêm Mới
+        </a>
+        <input type="text" id="searchString" name="searchString"
+               value="@ViewData["SearchString"]" class="form-control me-2"
+               placeholder="Nhập tên cần tìm">
+        <button type="submit" class="btn btn-primary">Tìm</button>
+    </div>
 
-<p>
-    <a class="btn btn-warning btn-sm" asp-action="Create">
-        <i class="fas fa-edit">Create New</i>
-    </a>
-</p>
+</form>
 <table class="table">
     <thead>
         <tr style="text-align:center">
@@ -30,17 +36,7 @@
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Image)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MetaTitle)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MetaKeyword)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MetaDescription)
-            </th>
-            
+            </th
             <th>
                 @Html.DisplayNameFor(model => model.PriceOld)
             </th>
@@ -75,16 +71,6 @@
            <td>
                <img src="@item.Image" width="100" />
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MetaTitle)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MetaKeyword)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MetaDescription)
-            </td>
-            
             <td>
                 @Html.DisplayFor(modelItem => item.PriceOld)
             </td>

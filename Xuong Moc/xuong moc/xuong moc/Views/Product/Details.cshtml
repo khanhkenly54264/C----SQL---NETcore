@@ -1,65 +1,125 @@
 ﻿@model xuong_moc.Models.Product
 
 @{
-    ViewData["Title"] = "Sản phẩm chi tiết";
+    ViewData["Title"] = "Chi tiết sản phẩm";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <!DOCTYPE html>
-
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>Details</title>
+    <title>@Model.Title</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .product-details {
+            margin: 20px auto;
+            max-width: 800px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+        }
+
+        .product-details h4 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        .product-details dl {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .product-details dt {
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #555;
+            width: 30%;
+        }
+
+        .product-details dd {
+            margin-left: 0;
+            margin-bottom: 10px;
+            width: 70%;
+        }
+
+        .product-details img {
+            display: block;
+            margin: 20px auto;
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        .product-details .btn-group {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .product-details .btn {
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 4px;
+            text-decoration: none;
+            color: white;
+            margin: 0 10px;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn-success {
+            background-color: #28a745;
+        }
+
+        .btn-success:hover {
+            background-color: #218838;
+        }
+
+        .btn-info {
+            background-color: #17a2b8;
+        }
+
+        .btn-info:hover {
+            background-color: #138496;
+        }
+    </style>
 </head>
 <body>
-    <br />
-    <div>
-        <h4>Chi tiết sảm phẩm </h4>
+    <div class="product-details">
+        <h4>Chi tiết sản phẩm</h4>
         <hr />
-        <dl class="row">
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.Title)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.Title)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.Description)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.Description)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.Content)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.Raw(Model.Content)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.Image)
-            </dt>
-            <dd class="col-sm-10">
-                <img src="@Model.Image" alt="@Model.Title" width="500px" height="500px">
+        <dl>
+            <dt>Tiêu đề</dt>
+            <dd>@Html.DisplayFor(model => model.Title)</dd>
 
+            <dt>Mô tả</dt>
+            <dd>@Html.DisplayFor(model => model.Description)</dd>
+
+            <dt>Nội dung</dt>
+            <dd>@Html.Raw(Model.Content)</dd>
+
+            <dt>Hình ảnh</dt>
+            <dd>
+                <img src="@Model.Image" alt="@Model.Title">
             </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.PriceOld)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.PriceOld)
-            </dd>
-            <dt class="col-sm-2">
-                @Html.DisplayNameFor(model => model.PriceNew)
-            </dt>
-            <dd class="col-sm-10">
-                @Html.DisplayFor(model => model.PriceNew)
-            </dd>
+
+            <dt>Giá cũ</dt>
+            <dd>@string.Format("{0:#,##0} VND", Model.PriceOld)</dd>
+
+            <dt>Giá mới</dt>
+            <dd>@string.Format("{0:#,##0} VND", Model.PriceNew)</dd>
         </dl>
-    </div>
-    <div>
-        <a asp-controller="Carts" asp-action="Add" asp-route-id="@Model?.Id" class="btn btn-success"><i class="fi fi-bs-shopping-bag">Mua hàng</i></a>
-        <a asp-action="Index" class="btn btn-info">Back to List</a>
+        <div class="btn-group">
+            <a asp-controller="Carts" asp-action="Add" asp-route-id="@Model?.Id" class="btn btn-success">
+                <i class="fi fi-bs-shopping-bag"></i> Mua hàng
+            </a>
+            <a asp-action="Index" class="btn btn-info">Quay lại danh sách</a>
+        </div>
     </div>
 </body>
 </html>

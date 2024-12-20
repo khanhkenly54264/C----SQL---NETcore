@@ -5,7 +5,7 @@
     Layout = "~/Areas/Admins/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<h1 class="text-center my-4">Admin Users</h1>
+<h1 class="text-center my-4">Admin Customer</h1>
 
 
 <form method="get" asp-action="Index" class="mb-12">
@@ -15,7 +15,7 @@
         </a>
         <input type="text" id="searchString" name="searchString"
                value="@ViewData["SearchString"]" class="form-control me-2"
-               placeholder="Nhập tên hoặc tài khoản cần tìm">
+               placeholder="Nhập tên cần tìm">
         <button type="submit" class="btn btn-primary">Tìm</button>
     </div>
 

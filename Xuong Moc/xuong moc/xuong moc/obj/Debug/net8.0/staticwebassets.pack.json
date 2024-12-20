@@ -229,10 +229,6 @@
       "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\ve-chung-toi.jpg"
     },
     {
-      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\vinpearl.png",
-      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\vinpearl.png"
-    },
-    {
       "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\bao-hanh.jpg",
       "PackagePath": "staticwebassets\\Images\\anhcat\\bao-hanh.jpg"
     },
@@ -387,6 +383,10 @@
     {
       "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\ve-chung-toi.jpg",
       "PackagePath": "staticwebassets\\Images\\anhcat\\ve-chung-toi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\vinpearl.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\vinpearl.png"
     },
     {
       "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\danh-muc\\4.jpg",

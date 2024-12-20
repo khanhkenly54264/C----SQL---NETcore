@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.11">
       <PrivateAssets>all</PrivateAssets>
@@ -25,8 +26,7 @@
 
   <ItemGroup>
     <Folder Include="Areas\Admins\Data\" />
-    <Folder Include="Areas\CustomerA\Data\" />
-    <Folder Include="Areas\CustomerA\Views\" />
+    <Folder Include="Areas\Customers\Data\" />
   </ItemGroup>
 
 </Project>

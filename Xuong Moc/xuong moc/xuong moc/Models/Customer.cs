@@ -11,10 +11,7 @@
         public string Phone { get; set; } // Số điện thoại
         public string Avatar { get; set; } // Ảnh đại diện
         public DateTime CreatedDate { get; set; } // Ngày tạo
-        public DateTime UpdatedDate { get; set; } // Ngày cập nhật
         public string CreatedBy { get; set; } // Người tạo
-        public string UpdatedBy { get; set; } // Người cập nhật
-        public bool IsDelete { get; set; } // Trạng thái xóa
         public bool IsActive { get; set; } // Trạng thái hoạt động
     }
 }

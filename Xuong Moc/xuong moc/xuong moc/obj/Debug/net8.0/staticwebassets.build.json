@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oX40IzoI40DrzIK33JG6eqiH28+GqkW/Tcnx81G1bSs=",
+  "Hash": "CgqBhj+HApy57WU330d+aLj4OvPgOmSaEkSTLhr68+A=",
   "Source": "xuong moc",
   "BasePath": "_content/xuong moc",
   "Mode": "Default",
@@ -2468,25 +2468,6 @@
       "OriginalItemSpec": "wwwroot\\Images\\anhcat\\banner_files\\ve-chung-toi-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\vinpearl.png",
-      "SourceId": "xuong moc",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\",
-      "BasePath": "_content/xuong moc",
-      "RelativePath": "Images/anhcat/banner_files/vinpearl.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\anhcat\\banner_files\\vinpearl.png"
-    },
-    {
       "Identity": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\bao-hanh.jpg",
       "SourceId": "xuong moc",
       "SourceType": "Discovered",
@@ -3283,6 +3264,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\anhcat\\ve-chung-toi-4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\vinpearl.png",
+      "SourceId": "xuong moc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\",
+      "BasePath": "_content/xuong moc",
+      "RelativePath": "Images/anhcat/vinpearl.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\anhcat\\vinpearl.png"
     },
     {
       "Identity": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Banner\\banner.jpeg",

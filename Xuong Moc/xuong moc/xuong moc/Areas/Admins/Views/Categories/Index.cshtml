@@ -33,13 +33,17 @@
         <!-- summernote -->
         <link rel="stylesheet" href="~/plugins/summernote/summernote-bs4.min.css">
     </head>
-    <form action="" method="get" class="form-inline">
-        <div class="form-group">
-            <label class="sr-only" for="keyword">Tìm tên theo loại</label>
-            <input class="form-control" name="name" id="keyword" placeholder="Nhập tên cần tìm">
+    <form method="get" asp-action="Index" class="mb-12">
+        <div class="form-inline d-flex align-items-center ">
+            <a style="margin-right:20ppx" class="btn btn-success" asp-action="Create">
+                <i class="fas fa-plus"></i> Thêm Mới
+            </a>
+            <input type="text" id="searchString" name="searchString"
+                   value="@ViewData["SearchString"]" class="form-control me-2"
+                   placeholder="Nhập tên cần tìm">
+            <button type="submit" class="btn btn-primary">Tìm</button>
         </div>
-        <button tyle="submit" class="btn btn-defaunt mr-1"><i class="fas fa-search"></i></button>
-        <a asp-action="Create" class="btn btn-primary"><i class="fas fa-plus"></i>Thêm mới</a>
+
     </form>
     <table class="table">
     <thead>
