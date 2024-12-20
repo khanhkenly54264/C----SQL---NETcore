@@ -25,6 +25,8 @@
 
   <ItemGroup>
     <Folder Include="Areas\Admins\Data\" />
+    <Folder Include="Areas\CustomerA\Data\" />
+    <Folder Include="Areas\CustomerA\Views\" />
   </ItemGroup>
 
 </Project>

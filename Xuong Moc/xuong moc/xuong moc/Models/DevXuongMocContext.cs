@@ -26,7 +26,9 @@ public partial class DevXuongMocContext : DbContext
 
     public virtual DbSet<Contact> Contacts { get; set; }
 
-    public virtual  DbSet<Customer> Customers { get; set; } 
+    public virtual  DbSet<Customer> Customers { get; set; }
+
+    public virtual DbSet<CartItem> CartItems { get; set; }
 
     public virtual DbSet<Extension> Extensions { get; set; }
 
@@ -173,19 +175,9 @@ public partial class DevXuongMocContext : DbContext
             entity.ToTable("BANNER");
 
             entity.Property(e => e.Id).HasColumnName("ID");
-            entity.Property(e => e.AdminCreated)
-                .HasMaxLength(255)
-                .HasColumnName("ADMIN_CREATED");
-            entity.Property(e => e.AdminUpdated)
-                .HasMaxLength(255)
-                .HasColumnName("ADMIN_UPDATED");
-            entity.Property(e => e.CreatedDate)
-                .HasColumnType("datetime")
-                .HasColumnName("CREATED_DATE");
             entity.Property(e => e.Image)
                 .HasMaxLength(255)
                 .HasColumnName("IMAGE");
-            entity.Property(e => e.Isdelete).HasColumnName("ISDELETE");
             entity.Property(e => e.Notes).HasColumnName("NOTES");
             entity.Property(e => e.Orders).HasColumnName("ORDERS");
             entity.Property(e => e.Status).HasColumnName("STATUS");
@@ -198,9 +190,6 @@ public partial class DevXuongMocContext : DbContext
             entity.Property(e => e.Type)
                 .HasMaxLength(500)
                 .HasColumnName("TYPE");
-            entity.Property(e => e.UpdatedDate)
-                .HasColumnType("datetime")
-                .HasColumnName("UPDATED_DATE");
             entity.Property(e => e.Urls)
                 .HasMaxLength(255)
                 .HasColumnName("URLS");

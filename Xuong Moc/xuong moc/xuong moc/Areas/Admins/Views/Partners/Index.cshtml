@@ -12,7 +12,7 @@
 </p>
 <table class="table">
     <thead>
-        <tr>
+        <tr style="text-align:center">
             <th>
                 @Html.DisplayNameFor(model => model.Title)
             </th>
@@ -51,12 +51,12 @@
     </thead>
     <tbody>
 @foreach (var item in Model) {
-        <tr>
+            <tr style="text-align:center">
             <td>
                 @Html.DisplayFor(modelItem => item.Title)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Logo)
+                    <img src="~/Images/..." alt="@item.Title" style="width: 100px; height: auto;" />
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Url)

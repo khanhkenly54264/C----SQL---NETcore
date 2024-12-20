@@ -35,7 +35,7 @@ namespace xuong_moc.Areas.Admins.Controllers
 
             var customer = await _context.Customers
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (customer == null)
+            if (customer == null) 
             {
                 return NotFound();
             }

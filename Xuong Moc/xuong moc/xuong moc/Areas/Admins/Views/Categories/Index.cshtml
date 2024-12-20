@@ -43,7 +43,7 @@
     </form>
     <table class="table">
     <thead>
-        <tr>
+        <tr style="text-align:center">
             <th>
                 Tên danh mục
             </th>
@@ -69,7 +69,7 @@
     </thead>
     <tbody>
 @foreach (var item in Model) {
-        <tr>
+        <tr style="text-align:center">
             <td>
                 @Html.DisplayFor(modelItem => item.Title)
             </td>

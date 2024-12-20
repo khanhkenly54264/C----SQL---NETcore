@@ -19,17 +19,8 @@ public partial class Banner
 
     public string? Type { get; set; }
 
-    public DateTime? CreatedDate { get; set; }
-
-    public DateTime? UpdatedDate { get; set; }
-
-    public string? AdminCreated { get; set; }
-
-    public string? AdminUpdated { get; set; }
-
     public string? Notes { get; set; }
 
     public byte Status { get; set; }
 
-    public bool Isdelete { get; set; }
 }

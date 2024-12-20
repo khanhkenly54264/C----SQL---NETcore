@@ -23,7 +23,7 @@
 
 <table class="table table-bordered table-striped table-hover">
     <thead class="thead-dark">
-        <tr>
+        <tr style="text-align:center">
             <th>@Html.DisplayNameFor(model => model.Account)</th>
             
             <th>@Html.DisplayNameFor(model => model.Name)</th>
@@ -37,7 +37,7 @@
     <tbody>
         @foreach (var item in Model)
         {
-            <tr>
+            <t style="text-align:center" r>
                 <td>@Html.DisplayFor(modelItem => item.Account)</td>
                
                 <td>@Html.DisplayFor(modelItem => item.Name)</td>
@@ -59,6 +59,7 @@
                 <td style="display:flex">
                     <a style="margin-right:10px" class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">
                         <i class="fas fa-edit"></i>
+
                     </a>
                     <a style="margin-right:10px" class="btn btn-info btn-sm" href="javascript:void(0);" onclick="loadDetails(@item.Id)">
                         <i class="fas fa-eye"></i>
@@ -71,7 +72,7 @@
                     </form>
 
                 </td>
-            </tr>
+            </t>
         }
     </tbody>
 </table>

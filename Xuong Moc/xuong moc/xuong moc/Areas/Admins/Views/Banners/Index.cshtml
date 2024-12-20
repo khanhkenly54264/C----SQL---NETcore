@@ -7,12 +7,17 @@
 
 <h1>Index</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+<form action="" method="get" class="form-inline">
+    <div class="form-group">
+        <label class="sr-only" for="keyword">Tìm tên theo loại</label>
+        <input class="form-control" name="name" id="keyword" placeholder="Nhập tên cần tìm">
+    </div>
+    <button tyle="submit" class="btn btn-defaunt mr-1"><i class="fas fa-search"></i></button>
+    <a asp-action="Create" class="btn btn-primary"><i class="fas fa-plus"></i>Thêm mới</a>
+</form>
 <table class="table">
     <thead>
-        <tr>
+        <tr style="text-align:center">
             <th>
                 @Html.DisplayNameFor(model => model.Image)
             </th>
@@ -32,34 +37,20 @@
                 @Html.DisplayNameFor(model => model.Type)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CreatedDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.UpdatedDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.AdminCreated)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.AdminUpdated)
-            </th>
-            <th>
                 @Html.DisplayNameFor(model => model.Notes)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Status)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Isdelete)
-            </th>
+            
             <th></th>
         </tr>
     </thead>
     <tbody>
 @foreach (var item in Model) {
-        <tr>
+            <tr style="text-align:center">
             <td>
-                @Html.DisplayFor(modelItem => item.Image)
+                    <img src="~/Images/Banner/banner.jpeg" alt="@item.Title" style="width: 100px; height: auto;" />
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Title)
@@ -77,31 +68,23 @@
                 @Html.DisplayFor(modelItem => item.Type)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.CreatedDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.UpdatedDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.AdminCreated)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.AdminUpdated)
-            </td>
-            <td>
                 @Html.DisplayFor(modelItem => item.Notes)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Status)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Isdelete)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
+          
+                <td>
+                    <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">
+                        <i class="fas fa-edit"></i>
+                    </a>
+                    <a class="btn btn-info btn-sm" asp-action="Details" asp-route-id="@item.Id">
+                        <i class="fas fa-eye"></i>
+                    </a>
+                    <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">
+                        <i class="fas fa-trash-alt"></i>
+                    </a>
+                </td>
         </tr>
 }
     </tbody>

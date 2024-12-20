@@ -1,6 +1,6 @@
+﻿using xuong_moc.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using xuong_moc.Models;
 
 namespace xuong_moc.Controllers
 {

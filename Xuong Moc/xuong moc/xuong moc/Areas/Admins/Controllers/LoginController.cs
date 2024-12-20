@@ -17,7 +17,7 @@ namespace Devxuongmoc.Areas.Admins.Controllers
             _context = context;
         }
 
-        [HttpGet]// get, hiển thị form để nhập dữ liệu
+        [HttpGet]// get, hiển thị form để nhập dữ liệu 
         public IActionResult Index()
         {
             return View();

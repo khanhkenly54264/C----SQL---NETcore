@@ -32,12 +32,6 @@
                         </div>
 
                         <div class="form-group">
-                            <label asp-for="MaNhanSu" class="control-label">Mã Nhân Sự</label>
-                            <input asp-for="MaNhanSu" class="form-control" />
-                            <span asp-validation-for="MaNhanSu" class="text-danger"></span>
-                        </div>
-
-                        <div class="form-group">
                             <label asp-for="Name" class="control-label">Tên</label>
                             <input asp-for="Name" class="form-control" />
                             <span asp-validation-for="Name" class="text-danger"></span>
@@ -54,17 +48,6 @@
                             <input asp-for="Email" class="form-control" />
                             <span asp-validation-for="Email" class="text-danger"></span>
                         </div>
-                        <div class="form-group">
-                            <label asp-for="Avatar" class="control-label">Ảnh Đại Diện</label>
-                            <input asp-for="Avatar" class="form-control" />
-                            <span asp-validation-for="Avatar" class="text-danger"></span>
-                        </div>
-
-                        <div class="form-group">
-                            <label asp-for="IdPhongBan" class="control-label">Mã Phòng Ban</label>
-                            <input asp-for="IdPhongBan" class="form-control" />
-                            <span asp-validation-for="IdPhongBan" class="text-danger"></span>
-                        </div>
 
                         <div class="form-group">
                             <label asp-for="NgayTao" class="control-label">Ngày Tạo</label>
@@ -77,36 +60,7 @@
                     <div class="col-md-6">
                         
 
-                        <div class="form-group">
-                            <label asp-for="NguoiTao" class="control-label">Người Tạo</label>
-                            <input asp-for="NguoiTao" class="form-control" />
-                            <input type="hidden" name="NgayTao" value="@DateTime.Now.ToString("yyyy-MM-ddTHH:mm:ss")" />
-                            <span asp-validation-for="NguoiTao" class="text-danger"></span>
-                        </div>
-
-                        <div class="form-group">
-                            <label asp-for="NgayCapNhat" class="control-label">Ngày Cập Nhật</label>
-                            <input asp-for="NgayCapNhat" class="form-control" />
-                            <span asp-validation-for="NgayCapNhat" class="text-danger"></span>
-                        </div>
-
-                        <div class="form-group">
-                            <label asp-for="NguoiCapNhat" class="control-label">Người Cập Nhật</label>
-                            <input asp-for="NguoiCapNhat" class="form-control" />
-                            <span asp-validation-for="NguoiCapNhat" class="text-danger"></span>
-                        </div>
-
-                        <div class="form-group">
-                            <label asp-for="SessionToken" class="control-label">Session Token</label>
-                            <input asp-for="SessionToken" class="form-control" />
-                            <span asp-validation-for="SessionToken" class="text-danger"></span>
-                        </div>
-
-                        <div class="form-group">
-                            <label asp-for="Salt" class="control-label">Salt</label>
-                            <input asp-for="Salt" class="form-control" />
-                            <span asp-validation-for="Salt" class="text-danger"></span>
-                        </div>
+                        
 
                         <div class="form-group">
                             <label asp-for="IsAdmin" class="control-label">Quyền Admin</label>

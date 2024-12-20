@@ -9,8 +9,384 @@
       "PackagePath": "staticwebassets\\Avt\\Mlemm.gif"
     },
     {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Avt\\chatluong.jpg",
+      "PackagePath": "staticwebassets\\Avt\\chatluong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Avt\\icon_email_pro.jpg",
+      "PackagePath": "staticwebassets\\Avt\\icon_email_pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Avt\\icon_fb_pro.jpg",
+      "PackagePath": "staticwebassets\\Avt\\icon_fb_pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Avt\\icon_zalo_pro.jpg",
+      "PackagePath": "staticwebassets\\Avt\\icon_zalo_pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Avt\\logo.jpg",
+      "PackagePath": "staticwebassets\\Avt\\logo.jpg"
+    },
+    {
       "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images.rar",
       "PackagePath": "staticwebassets\\Images.rar"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\Banner\\banner.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Banner\\banner.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\DOITAC.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\DOITAC.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\GIOITHIEU.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\GIOITHIEU.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\LIENHE.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\LIENHE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner.html",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner.html"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\01.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\02.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\05.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\06.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\all.min.css",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\bao-hanh.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\bao-hanh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\bootstrap.bundle.min.js.download",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\bootstrap.bundle.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\chat-luong.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\chat-luong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\chatluong.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\chatluong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\chinh-sach.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\chinh-sach.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\ghe.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\ghe.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\icon-cau-thang.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-cau-thang.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\icon-do-trang-tri.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-do-trang-tri.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\icon-phong-bep.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-phong-bep.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\icon-phong-khach.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-phong-khach.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\icon-phong-ngu.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-phong-ngu.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\icon-phong-tam.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-phong-tam.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\icon-tre-em.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-tre-em.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\icon-van-phong.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon-van-phong.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\icon_email_pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon_email_pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\icon_fb_pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon_fb_pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\icon_zalo_pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\icon_zalo_pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\jquery.slim.min.js.download",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\jquery.slim.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\logo.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\main.1c2a357f.js.download",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\main.1c2a357f.js.download"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\main.a567d279.css",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\main.a567d279.css"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\marvella.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\marvella.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\melissa.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\melissa.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\muong-thanh.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\muong-thanh.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\san-pham.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\san-pham.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\sheraton.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\sheraton.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\slick-theme.css",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\slick.css",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\style.css",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\sunrise-sapa.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\sunrise-sapa.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\the-coffee-house.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\the-coffee-house.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\uicons-bold-straight.css",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\uicons-bold-straight.css"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\ve-chung-toi-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\ve-chung-toi-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\ve-chung-toi-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\ve-chung-toi-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\ve-chung-toi-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\ve-chung-toi-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\ve-chung-toi-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\ve-chung-toi-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\ve-chung-toi.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\ve-chung-toi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\banner_files\\vinpearl.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\banner_files\\vinpearl.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\bao-hanh.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\bao-hanh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\bg-about-us.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\bg-about-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\bgr.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\bgr.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\chat-luong.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\chat-luong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\chatluong.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\chatluong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\chinh-sach.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\chinh-sach.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\ghe.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\ghe.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\icon-cau-thang.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon-cau-thang.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\icon-do-trang-tri.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon-do-trang-tri.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\icon-phong-bep.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon-phong-bep.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\icon-phong-khach.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon-phong-khach.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\icon-phong-ngu.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon-phong-ngu.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\icon-phong-tam.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon-phong-tam.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\icon-van-phong.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon-van-phong.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\icon_email_pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon_email_pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\icon_fb_pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon_fb_pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\icon_zalo_pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\icon_zalo_pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\lienhe-bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\lienhe-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\logo.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\marvella.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\marvella.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\muong-thanh.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\muong-thanh.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\san-pham.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\san-pham.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\sheraton (1).png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\sheraton (1).png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\sheraton.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\sheraton.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\sp2.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\sp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\su-menh1.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\su-menh1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\su-menh2.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\su-menh2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\su-menh3.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\su-menh3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\su-menh4.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\su-menh4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\sunrise-sapa.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\sunrise-sapa.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\tamnhin.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\tamnhin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\thanhlap.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\thanhlap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\the-coffee-house.png",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\the-coffee-house.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\trai-nghiem1.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\trai-nghiem1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\ve-chung-toi-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\ve-chung-toi-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\ve-chung-toi-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\ve-chung-toi-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\ve-chung-toi-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\ve-chung-toi-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\ve-chung-toi-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\ve-chung-toi-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\anhcat\\ve-chung-toi.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhcat\\ve-chung-toi.jpg"
     },
     {
       "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\danh-muc\\4.jpg",
@@ -51,6 +427,22 @@
     {
       "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\danh-muc\\icon-van-phong.png",
       "PackagePath": "staticwebassets\\Images\\danh-muc\\icon-van-phong.png"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\news\\01.jpg",
+      "PackagePath": "staticwebassets\\Images\\news\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\news\\02.jpg",
+      "PackagePath": "staticwebassets\\Images\\news\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\news\\05.jpg",
+      "PackagePath": "staticwebassets\\Images\\news\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\news\\06.jpg",
+      "PackagePath": "staticwebassets\\Images\\news\\06.jpg"
     },
     {
       "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\cau-thang\\019.jpg",
@@ -167,6 +559,10 @@
     {
       "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\Images\\products\\van-phong\\018.jpg",
       "PackagePath": "staticwebassets\\Images\\products\\van-phong\\018.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\css\\Product.css",
+      "PackagePath": "staticwebassets\\css\\Product.css"
     },
     {
       "Id": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\wwwroot\\css\\site.css",
