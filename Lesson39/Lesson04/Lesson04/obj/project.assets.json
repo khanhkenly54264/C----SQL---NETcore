@@ -5654,19 +5654,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {}
+    "C:\\Users\\KhahnHax\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\devmasster\\ASP.Net\\Lesson04\\Lesson04\\Lesson04.csproj",
+      "projectUniqueName": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Lesson39\\Lesson04\\Lesson04\\Lesson04.csproj",
       "projectName": "Lesson04",
-      "projectPath": "F:\\devmasster\\ASP.Net\\Lesson04\\Lesson04\\Lesson04.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "F:\\devmasster\\ASP.Net\\Lesson04\\Lesson04\\obj\\",
+      "projectPath": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Lesson39\\Lesson04\\Lesson04\\Lesson04.csproj",
+      "packagesPath": "C:\\Users\\KhahnHax\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Lesson39\\Lesson04\\Lesson04\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KhahnHax\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5674,7 +5679,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5692,7 +5696,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -5726,7 +5731,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

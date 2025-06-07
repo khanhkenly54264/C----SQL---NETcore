@@ -30,6 +30,7 @@ namespace DevXuongMoc.Areas.Admins.Controllers
 
             // Lọc dữ liệu nếu có từ khóa tìm kiếm
             if (!string.IsNullOrEmpty(searchString))
+
             {
                 users = users.Where(u => u.Name.Contains(searchString) || u.Account.Contains(searchString));
             }

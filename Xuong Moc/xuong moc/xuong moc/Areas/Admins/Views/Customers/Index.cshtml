@@ -30,7 +30,6 @@
             <th>@Html.DisplayNameFor(model => model.Phone)</th>
             <th>@Html.DisplayNameFor(model => model.Email)</th>
             <th>@Html.DisplayNameFor(model => model.IsActive)</th>
-            <th class="text-truncate">@Html.DisplayNameFor(model => model.CreatedDate)</th>
             <th>Chức năng</th>
         </tr>
     </thead>
@@ -52,7 +51,6 @@
                         <span style="color: red;">Đang khóa</span>
                     }
                 </td>
-                <td class="text-truncate">@Html.DisplayFor(modelItem => item.CreatedDate)</td>
                 <td style="display:flex">
                     <a style="margin-right:10px" class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">
                         <i class="fas fa-edit"></i>

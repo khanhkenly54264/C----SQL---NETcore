@@ -65,9 +65,16 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Content)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Status)
-            </td>
+                <td>
+                    @if (item.Status == 1)
+                    {
+                        <span style="color: green;">Đang hoạt động</span>
+                    }
+                    else
+                    {
+                        <span style="color: red;">Không hoạt động</span>
+                    }
+                </td>
                 <td>
                     <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">
                         <i class="fas fa-edit"></i>

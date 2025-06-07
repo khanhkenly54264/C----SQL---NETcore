@@ -23,7 +23,7 @@ public partial class AdminUser
 
     public int? IdPhongBan { get; set; }
 
-    public DateTime? NgayTao { get; set; }
+    public DateTime? NgayTao { get; set; }=DateTime.Now;
 
     public string? NguoiTao { get; set; }
 

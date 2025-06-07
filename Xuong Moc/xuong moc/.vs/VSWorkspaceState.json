@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\xuong moc",
+    "\\xuong moc\\Areas",
+    "\\xuong moc\\Areas\\Admins",
+    "\\xuong moc\\Areas\\Admins\\Controllers",
+    "\\xuong moc\\Areas\\Admins\\Data",
+    "\\xuong moc\\Areas\\Admins\\Models",
+    "\\xuong moc\\Areas\\Admins\\Views",
+    "\\xuong moc\\Areas\\Admins\\Views\\AdminUsers",
+    "\\xuong moc\\Views",
+    "\\xuong moc\\Views\\Shared"
+  ],
+  "SelectedNode": "\\xuong moc\\Areas\\Admins\\Models\\Login.cs",
+  "PreviewInSolutionExplorer": false
+}

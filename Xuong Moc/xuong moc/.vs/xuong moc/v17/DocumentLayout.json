@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\",
+  "WorkspaceRootPath": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|c:\\users\\khahnhax\\documents\\github\\c----sql---netcore\\xuong moc\\xuong moc\\xuong moc\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|solutionrelative:xuong moc\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|c:\\users\\khahnhax\\documents\\github\\c----sql---netcore\\xuong moc\\xuong moc\\xuong moc\\areas\\admins\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|solutionrelative:xuong moc\\areas\\admins\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|c:\\users\\khahnhax\\documents\\github\\c----sql---netcore\\xuong moc\\xuong moc\\xuong moc\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|solutionrelative:xuong moc\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|c:\\users\\khahnhax\\documents\\github\\c----sql---netcore\\xuong moc\\xuong moc\\xuong moc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|solutionrelative:xuong moc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|c:\\users\\khahnhax\\onedrive\\documents\\github\\c----sql---netcore\\xuong moc\\xuong moc\\xuong moc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAF83B2-D7C7-41CB-A950-BA087356BCDB}|xuong moc\\xuong moc.csproj|solutionrelative:xuong moc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,55 +21,24 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "xuong moc\\Areas\\Admins\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "xuong moc\\Areas\\Admins\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-19T14:49:07.055Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "xuong moc\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "xuong moc\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAAAFUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T21:31:16.91Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "xuong moc\\Areas\\Admins\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "xuong moc\\Areas\\Admins\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAowIsAAAAiAAAAAAAAAA==",
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "xuong moc\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Controllers\\CartController.cs",
+              "RelativeToolTip": "xuong moc\\Controllers\\CartController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T21:31:00.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminUsersController.cs",
-              "DocumentMoniker": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
-              "RelativeDocumentMoniker": "xuong moc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
-              "ToolTip": "C:\\Users\\KhahnHax\\Documents\\GitHub\\C----SQL---NETcore\\Xuong Moc\\xuong moc\\xuong moc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
-              "RelativeToolTip": "xuong moc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T20:03:36.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T11:23:02.887Z"
             }
           ]
         }

@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DEV2409GH-T2356\\NguyenTuanAnh_T2356_ASP.NET\\Lab01\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Lesson37\\Lab01\u002B02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E75943C5-CBF9-40A9-9278-763FD9EED43A}|SS02\\SS02.csproj|c:\\users\\khahnhax\\onedrive\\documents\\github\\c----sql---netcore\\lesson37\\lab01\u002B02\\ss02\\views\\product\\getallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E75943C5-CBF9-40A9-9278-763FD9EED43A}|SS02\\SS02.csproj|solutionrelative:ss02\\views\\product\\getallproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75943C5-CBF9-40A9-9278-763FD9EED43A}|SS02\\SS02.csproj|c:\\users\\khahnhax\\onedrive\\documents\\github\\c----sql---netcore\\lesson37\\lab01\u002B02\\ss02\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75943C5-CBF9-40A9-9278-763FD9EED43A}|SS02\\SS02.csproj|solutionrelative:ss02\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F37537-7C0E-4F10-98DB-92C0B81B438A}|Lesson02\\Lesson02.csproj|c:\\users\\khahnhax\\onedrive\\documents\\github\\c----sql---netcore\\lesson37\\lab01\u002B02\\lesson02\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F37537-7C0E-4F10-98DB-92C0B81B438A}|Lesson02\\Lesson02.csproj|solutionrelative:lesson02\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F37537-7C0E-4F10-98DB-92C0B81B438A}|Lesson02\\Lesson02.csproj|c:\\users\\khahnhax\\onedrive\\documents\\github\\c----sql---netcore\\lesson37\\lab01\u002B02\\lesson02\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F37537-7C0E-4F10-98DB-92C0B81B438A}|Lesson02\\Lesson02.csproj|solutionrelative:lesson02\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Lesson37\\Lab01\u002B02\\SS02\\Views\\Product\\GetAllProduct.cshtml",
+              "RelativeDocumentMoniker": "SS02\\Views\\Product\\GetAllProduct.cshtml",
+              "ToolTip": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Lesson37\\Lab01\u002B02\\SS02\\Views\\Product\\GetAllProduct.cshtml",
+              "RelativeToolTip": "SS02\\Views\\Product\\GetAllProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T09:37:29.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Lesson37\\Lab01\u002B02\\SS02\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SS02\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Lesson37\\Lab01\u002B02\\SS02\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SS02\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:37:22.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Lesson37\\Lab01\u002B02\\Lesson02\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Lesson02\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Lesson37\\Lab01\u002B02\\Lesson02\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Lesson02\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:33:52.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Lesson37\\Lab01\u002B02\\Lesson02\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Lesson02\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\KhahnHax\\OneDrive\\Documents\\GitHub\\C----SQL---NETcore\\Lesson37\\Lab01\u002B02\\Lesson02\\Models\\Account.cs",
+              "RelativeToolTip": "Lesson02\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:31:59.49Z",
+              "EditorCaption": ""
             }
           ]
         }

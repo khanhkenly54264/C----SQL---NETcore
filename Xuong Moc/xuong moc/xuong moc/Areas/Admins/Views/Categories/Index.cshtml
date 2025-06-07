@@ -39,60 +39,42 @@
                 <i class="fas fa-plus"></i> Thêm Mới
             </a>
             <input type="text" id="searchString" name="searchString"
-                   value="@ViewData["SearchString"]" class="form-control me-2"
-                   placeholder="Nhập tên cần tìm">
+            value="@ViewData["SearchString"]" class="form-control me-2"
+            placeholder="Nhập tên cần tìm">
             <button type="submit" class="btn btn-primary">Tìm</button>
         </div>
 
     </form>
     <table class="table">
-    <thead>
-        <tr style="text-align:center">
-            <th>
-                Tên danh mục
-            </th>
-            <th>
-                Ngày tạo
-            </th>
-            <th>
-                Ngày sửa
-            </th>
-            <th>
-                Người tạo
-            </th>
-            <th>
-                Người sửa
-            </th>
-            
-            <th>
-                Trạng thái
-            </th>
-            
-            <th>Tác vụ</th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr style="text-align:center">
-            <td>
-                @Html.DisplayFor(modelItem => item.Title)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CreatedDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.UpdatedDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.AdminCreated)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.AdminUpdated)
-            </td>
-            
-            <td>
-                @Html.DisplayFor(modelItem => item.Status)
-            </td>
+        <thead>
+            <tr style="text-align:center">
+                <th>
+                    Tên danh mục
+                </th>
+                
+                <th>
+                    Trạng thái
+                </th>
+
+                <th>Tác vụ</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model) {
+                <tr style="text-align:center">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+
+                    <td>
+                        @if (item.Status == 1)
+                        {
+                            <span style="color: green;">Đang hoạt động</span>
+                        }else
+                        {
+                            <span style="color: red;">Không hoạt động</span>
+                        }
+                    </td>
                     <td>
                         <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.Id">
                             <i class="fas fa-edit"></i>

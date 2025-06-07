@@ -57,6 +57,15 @@
                 <span asp-validation-for="Notes" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="Status" class="control-label">Status</label>
+                <select asp-for="Status" class="form-control">
+                    <option value="">Chọn trạng thái</option>
+                    <option value="1">Đang Hoạt Động </option>
+                    <option value="0">Khóa</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <input type="submit" value="Tạo" class="btn btn-primary" />
             </div>
         </form>

@@ -30,14 +30,13 @@
             <th>@Html.DisplayNameFor(model => model.Phone)</th>
             <th>@Html.DisplayNameFor(model => model.Email)</th>
             <th>@Html.DisplayNameFor(model => model.TrangThai)</th>
-            <th class="text-truncate">@Html.DisplayNameFor(model => model.NgayTao)</th>
             <th>Chức năng</th>
         </tr>
     </thead>
     <tbody>
         @foreach (var item in Model)
         {
-            <t style="text-align:center" r>
+            <tr style="text-align:center" >
                 <td>@Html.DisplayFor(modelItem => item.Account)</td>
                
                 <td>@Html.DisplayFor(modelItem => item.Name)</td>
@@ -53,7 +52,6 @@
                         <span style="color: red;">Đang khóa</span>
                     }
                 </td>
-                <td class="text-truncate">@Html.DisplayFor(modelItem => item.NgayTao)</td>
 
 
                 <td style="display:flex">
@@ -72,7 +70,7 @@
                     </form>
 
                 </td>
-            </t>
+            </tr>
         }
     </tbody>
 </table>
